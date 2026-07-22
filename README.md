@@ -26,15 +26,19 @@ This project was completed as **Task 1** as part of a Data Analytics internship/
 ## 🔍 Key Analysis Performed
 
 ### 📈 Revenue Trends
+
 Analyzed how sales and revenue changed over time using year-wise and month-wise trends to understand overall business performance.
 
 ### 🛍️ Top-Selling Products
+
 Identified products contributing the highest revenue and compared their sales performance.
 
 ### 👥 High-Value Customers
+
 Analyzed customer data to identify customers generating the highest business value.
 
 ### 🌍 Regional Performance
+
 Compared sales performance across different countries and regions to identify strong and weak markets.
 
 ---
@@ -55,7 +59,6 @@ The interactive Power BI dashboard includes:
 
 - **Microsoft Power BI** – Data visualization and dashboard development
 - **Microsoft Excel** – Data preparation and analysis
-- **Python** – Basic data handling
 - **DAX** – Creating calculated measures and KPIs
 
 ---
@@ -83,11 +86,11 @@ The interactive Power BI dashboard includes:
 
 ---
 
-## 📌 Outcome
+## 💼 Business Outcome
 
 This project demonstrates how raw business sales data can be transformed into meaningful insights using data analysis and visualization.
 
-The Power BI dashboard provides a clear overview of business performance and helps stakeholders quickly understand sales trends, customer value, product performance, and regional differences for better decision-making.
+The Power BI dashboard provides a clear overview of business performance and helps stakeholders understand sales trends, customer value, product performance, and regional differences for better decision-making.
 
 ---
 
